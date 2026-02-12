@@ -1,12 +1,17 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,50:161B22,100:1A1A2E&height=120&text=SARTHAK%20MATHAPATI&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=50&stroke=0A84FF&strokeWidth=1" width="100%" alt="Sarthak Mathapati" />
+
 <a href="https://github.com/skens-git-code">
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=14&duration=4000&pause=1500&color=636366&center=true&vCenter=true&width=600&height=25&lines=AI+SOFTWARE+ENGINEER+%E2%80%A2+FULL+STACK+ARCHITECT+%E2%80%A2+STARTUP+FOUNDER" alt="Roles" />
 </a>
+
 <br>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=1000&color=0A84FF&center=true&vCenter=true&width=750&height=35&lines=%24+building+at+the+intersection+of+AI+%26+web+_;%24+from+concept+%E2%86%92+deployment+%E2%86%92+impact+_;%24+clean+code+%C2%B7+sharp+thinking+%C2%B7+real+products+_;%24+disciplina+%C2%B7+execucao+%C2%B7+foco+_)](https://git.io/typing-svg)
+
 <br>
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-0A84FF?style=flat-square&logo=safari&logoColor=white)](https://my-portfolio-eight-tau-petac50k54.vercel.app)
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sarthak-mathapati-b2b04430a)
@@ -26,8 +31,14 @@
 ![Status](https://img.shields.io/badge/Open_to_Work-30D158?style=flat-square&labelColor=1C1C1E)
 &nbsp;
 ![Location](https://img.shields.io/badge/New_Delhi,_IN-FF9F0A?style=flat-square&labelColor=1C1C1E)
+
+
+
 </div>
+
 <br>
+
+---
 
 <br>
 
@@ -39,7 +50,6 @@ const sarthak: Developer = {
   alias       : "skens-git-code",
   roles       : ["AI Software Engineer", "Full Stack Architect", "Startup Founder"],
   education   : "B.Tech CS (AI) · Newton School of Technology @ Rishihood University (2023–2027)",
-
   location    : "New Delhi, India  🇮🇳  (IST · UTC +5:30)",
   origin      : "Born: Sawantwadi → Raised: Kolhapur → Now: Delhi",
   building    : ["Skens.inc", "Leaflix.inc"],   // MVP → Q2 2025
@@ -54,7 +64,7 @@ const sarthak: Developer = {
     "AI/ML — RAG pipelines, LangChain, fine-tuning workflows",
   ],
 
-  openTo      : ["Internship (Summer 2025)", "Open Source", "Technical co-founder"],
+  openTo      : ["Internship (Summer 2026)", "Open Source", "Technical co-founder"],
   available   : true,
   responseTime: "< 24 hours",
   coffeeCount : Infinity,
@@ -613,16 +623,6 @@ const cartReducer = (state, { type, payload }) => {
 
 <br>
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=skens-git-code&show_icons=true&theme=transparent&bg_color=0A0A0F&border_color=2C2C2E&icon_color=0A84FF&text_color=8E8E93&title_color=FFFFFF&custom_title=GitHub+Stats" alt="GitHub Stats" />
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skens-git-code&layout=compact&theme=transparent&bg_color=0A0A0F&border_color=2C2C2E&title_color=FFFFFF&text_color=8E8E93&hide=html,css&langs_count=8" alt="Top Languages" />
-
-</div>
-
 ## `> cat milestones.log`
 
 ### 🏆 Journey · Growth · Impact
@@ -704,13 +704,13 @@ gantt
 
 ## `> cat current-focus.sh`
 
-### 🎯 Current Focus — Q1 / Q2 2025
+### 🎯 Current Focus — Q1 / Q2 2026
 
 **💼 Actively Seeking**
 
 ```
 Role      →  SDE · Full Stack Engineer · Frontend Engineer
-Timeline  →  Summer 2025 Internship
+Timeline  →  Summer 2026 Internship
 Mode      →  Remote / Hybrid / On-site — fully flexible
 Location  →  India preferred · open to relocation
 ```
@@ -766,13 +766,14 @@ Location  →  India preferred · open to relocation
 
 ```json
 {
-  "machine":   "MacBook Pro M-Series · 16GB RAM · Liquid Retina XDR",
-  "os":        "macOS Sequoia · Zsh (Oh-My-Zsh) · Powerlevel10k",
-  "editor":    "VS Code · Tokyo Night Storm · Cascadia Code NF",
-  "terminal":  "iTerm2 · Tmux · Neovim (for quick edits)",
-  "monitors":  "27\" 4K LG UltraFine Display (Horizontal + Vertical)",
-  "keyboard":  "Keychron K2 (Brown Switches) · G502 Lightspeed",
-  "internet":  "Gigabit Fiber · Low Latency (5ms)"
+  "primary_machine": "MacBook Pro (M3) · 8GB RAM · Liquid Retina XDR",
+  "secondary_machine": "Dell G15 · 16GB RAM · 4GB Dedicated GPU · 120Hz",
+  "operating_system": "macOS Sequoia · Zsh (Oh My Zsh) · Powerlevel10k",
+  "editor": "VS Code Insiders / VS Code · Tokyo Night Storm · Cascadia Code NF",
+  "terminal_setup": "iTerm2 · Tmux · Neovim (quick edits)",
+  "monitors": "27\" RD320UA + 32\" BenQ 4K Programming Monitor (Horizontal + Vertical)",
+  "peripherals": "Logitech MX Mechanical Wireless (Brown Switches) · Logitech G502 Lightspeed",
+  "internet": "Gigabit Fiber · ~5ms Latency"
 }
 ```
 
@@ -845,9 +846,8 @@ The future of the web isn't just responsive interfaces; it's proactive agents. M
 
 1.  **Fork the repo**: Create your own copy of the project.
 2.  **Create a branch**: Use a descriptive name like `feat/new-shader-effect`.
-3.  **Commit changes**: Follow [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) specification.
-4.  **Push and PR**: Submit your pull request for review.
-5.  **Iterate**: I'll provide feedback or merge your contribution.
+3.  **Push and PR**: Submit your pull request for review.
+4.  **Iterate**: I'll provide feedback or merge your contribution.
 
 **I can help with:**
 - 💻 **Full Stack Development** — MERN stack, JAMstack, REST & GraphQL APIs
@@ -921,6 +921,8 @@ The future of the web isn't just responsive interfaces; it's proactive agents. M
 
 <br>
 
+---
+
 <br>
 
 ## `> cat bookshelf.txt`
@@ -947,11 +949,19 @@ The future of the web isn't just responsive interfaces; it's proactive agents. M
 [![Atomic Habits](https://img.shields.io/badge/Atomic_Habits-James_Clear-5E35B1?style=flat-square&labelColor=161B22)]()
 [![Deep Work](https://img.shields.io/badge/Deep_Work-Cal_Newport-D32F2F?style=flat-square&labelColor=161B22)]()
 [![The Alchemist](https://img.shields.io/badge/The_Alchemist-Paulo_Coelho-FFC107?style=flat-square&labelColor=161B22)]()
+
 <br>
+
+---
+
 <br>
+
 <div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:533483,25:0F3460,50:16213E,75:1A1A2E,100:0A0A0F&height=140&section=footer&text=DISCIPLINA%20%C2%B7%20EXECUCAO%20%C2%B7%20FOCO&fontSize=24&fontColor=8E8E93&animation=fadeIn&fontAlignY=65" width="100%" alt="Disciplina · Execucao · Foco" />
+
 <br>
+
 *"If you want to know me — hold on. It's coming."*
 
 <br>
