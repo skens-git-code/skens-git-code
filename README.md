@@ -34,9 +34,6 @@
 &nbsp;
 ![GPA](https://img.shields.io/badge/GPA-3.9%2F4.0-BF5AF2?style=flat-square&labelColor=1C1C1E)
 
-<br>
-
-<img src="https://streak-stats.demolab.com/?user=skens-git-code&theme=transparent&background=00000000&border=2C2C2E&stroke=0A84FF&ring=0A84FF&fire=FF453A&currStreakLabel=0A84FF&sideLabels=8E8E93&dates=636366&currStreakNum=FFFFFF&sideNums=FFFFFF" width="85%" alt="Coding Streak" />
 
 </div>
 
@@ -53,11 +50,11 @@ const sarthak: Developer = {
   name        : "Sarthak Mathapati",
   alias       : "skens-git-code",
   roles       : ["AI Software Engineer", "Full Stack Architect", "Startup Founder"],
-  education   : "B.Tech CS (AI) · Newton School of Technology @ Rishihood University (2024–2028)",
+  education   : "B.Tech CS (AI) · Newton School of Technology @ Rishihood University (2023–2027)",
   gpa         : 3.9,
   location    : "New Delhi, India  🇮🇳  (IST · UTC +5:30)",
   origin      : "Born: Sawantwadi → Raised: Kolhapur → Now: Delhi",
-  building    : ["Skens.inc", "Leaflix.inc"],   // MVP → Q2 2026
+  building    : ["Skens.inc", "Leaflix.inc"],   // MVP → Q2 2025
   philosophy  : "Disciplina · Execucao · Foco",
   quote       : "Strong fundamentals → clean code → products that matter.",
 
@@ -69,7 +66,7 @@ const sarthak: Developer = {
     "AI/ML — RAG pipelines, LangChain, fine-tuning workflows",
   ],
 
-  openTo      : ["Internship (Summer 2026)", "Open Source", "Technical co-founder"],
+  openTo      : ["Internship (Summer 2025)", "Open Source", "Technical co-founder"],
   available   : true,
   responseTime: "< 24 hours",
   coffeeCount : Infinity,
@@ -286,11 +283,11 @@ const Modes = {
 ```
 idx │ timestamp           │ password           │ entropy
 ────┼─────────────────────┼────────────────────┼─────────────
- 0  │ 2026-02-12 14:32    │ aB7$kL9#pQ2!       │ 82.4 bits
- 1  │ 2026-02-12 13:15    │ correct-horse-91   │ 78.1 bits
- 2  │ 2026-02-11 22:47    │ ULln-ULLn-ULLs     │ 85.0 bits
+ 0  │ 2023-09-15 14:32    │ aB7$kL9#pQ2!       │ 82.4 bits
+ 1  │ 2023-09-15 13:15    │ correct-horse-91   │ 78.1 bits
+ 2  │ 2023-09-14 22:47    │ ULln-ULLn-ULLs     │ 85.0 bits
 ...│ ...                 │ ...                │ ...
-49  │ 2026-01-28 09:22    │ vB9!qW4^jK7*       │ 80.7 bits
+49  │ 2023-08-28 09:22    │ vB9!qW4^jK7*       │ 80.7 bits
 ─────────────────────────────────────────────────────────────
 FIFO eviction  ·  Import/Export CSV  ·  Auto-clear clipboard (30s)
 ```
@@ -547,10 +544,10 @@ const cartReducer = (state, { type, payload }) => {
 **Roadmap**
 
 ```
-✅ PHASE 1 — Foundation      (Jan 2026)  React + Vite, Context API, Cart, Product listing
+✅ PHASE 1 — Foundation      (Jan 2025)  React + Vite, Context API, Cart, Product listing
 🚧 PHASE 2 — Payments & Auth (Feb–Mar)   Stripe, JWT + bcrypt, Order history, Search
-📅 PHASE 3 — Admin           (Apr 2026)  Dashboard, Product/Order CRUD, Analytics
-📅 PHASE 4 — Production      (May 2026)  Perf, SSR/Next.js migration, PWA, Monitoring
+📅 PHASE 3 — Admin           (Apr 2025)  Dashboard, Product/Order CRUD, Analytics
+📅 PHASE 4 — Production      (May 2025)  Perf, SSR/Next.js migration, PWA, Monitoring
 ```
 
 [![WIP](https://img.shields.io/badge/In_Progress-FF6B6B?style=for-the-badge&labelColor=161B22)]()
@@ -634,24 +631,11 @@ const cartReducer = (state, { type, payload }) => {
 
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=skens-git-code&show_icons=true&count_private=true&theme=transparent&bg_color=0A0A0F&border_color=2C2C2E&icon_color=0A84FF&text_color=8E8E93&title_color=FFFFFF&include_all_commits=true&custom_title=GitHub+Stats" alt="GitHub Stats" />
-    </td>
-    <td align="center">
-      <img src="https://streak-stats.demolab.com/?user=skens-git-code&theme=transparent&background=0A0A0F&border=2C2C2E&stroke=0A84FF&ring=0A84FF&fire=FF453A&currStreakLabel=0A84FF&sideLabels=8E8E93&dates=636366&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
+<img src="https://github-readme-stats.vercel.app/api?username=skens-git-code&show_icons=true&count_private=true&theme=transparent&bg_color=0A0A0F&border_color=2C2C2E&icon_color=0A84FF&text_color=8E8E93&title_color=FFFFFF&include_all_commits=true&custom_title=GitHub+Stats" alt="GitHub Stats" />
 
 <br>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skens-git-code&layout=compact&theme=transparent&bg_color=0A0A0F&border_color=2C2C2E&title_color=FFFFFF&text_color=8E8E93&hide=html,css&langs_count=8" alt="Top Languages" />
-
-<br>
-
-[![Contribution Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=skens-git-code&theme=react-dark&bg_color=0A0A0F&hide_border=true&area=true&color=0A84FF&point=FFFFFF&line=0A84FF&title_color=FFFFFF&custom_title=Contribution+Activity)](https://github.com/skens-git-code)
 
 </div>
 
@@ -662,29 +646,27 @@ const cartReducer = (state, { type, payload }) => {
 ```
 2023 ──────────────────────────────────────────────────────────────────
   ├── Jan   Started JavaScript — hoisting, closures, the event loop
+  ├── Mar   🎨  FluidArt shipped — 1st Capstone · accessibility 94/100
   ├── Jun   HTML5 + CSS3 mastery — Flexbox, Grid, responsive design
-  └── Sep   Git & GitHub — branches, PRs, collaboration workflows
-
-2024 ──────────────────────────────────────────────────────────────────
-  ├── Jan   🎨  FluidArt shipped — 1st Capstone · accessibility 94/100
-  ├── Jun   🧮  Mathens.io — custom RPN parser · zero eval() · LH 98
+  ├── Jul   🧮  Mathens.io — custom RPN parser · zero eval() · LH 98
   ├── Aug   🔐  Cryptens.io — Shannon entropy + Web Crypto API
-  ├── Sep   ⚡  React 18 — component model, hooks, state management
+  ├── Sep   Git & GitHub — branches, PRs, collaboration workflows
   ├── Oct   🎮  Battlens.io — 1st-order Markov Chain AI from scratch
   └── Dec   ✅  Achievens.io — full RPG XP engine + 8 achievements
 
-2025 ──────────────────────────────────────────────────────────────────
-  ├── Jan   🖥️  Node.js + Express — REST APIs, MVC, middleware
-  ├── Feb   🛍️  MythicMart — full stack MERN e-commerce
-  ├── Mar   🗄️  MongoDB + Mongoose — schema design, indexing
+2024 ──────────────────────────────────────────────────────────────────
+  ├── Jan   ⚡  React 18 — component model, hooks, state management
+  ├── Mar   🖥️  Node.js + Express — REST APIs, MVC, middleware
+  ├── Apr   🛍️  MythicMart — full stack MERN e-commerce
+  ├── May   🗄️  MongoDB + Mongoose — schema design, indexing
   ├── Jun   🚀  Founded Skens.inc — AI-powered solutions startup
   ├── Sep   🎬  Founded Leaflix.inc — AI platform, stealth mode
   └── Dec   🤝  4 open-source PRs merged
 
-2026 ──────────────────────────────────────────────────────────────────
+2025 ──────────────────────────────────────────────────────────────────
   ├── Q1   📚  DSA — 200+ LeetCode problems across all categories
   ├── Q2   🚀  Skens.inc + Leaflix.inc MVP launches
-  └── Q2+  💼  Summer 2026 Internship (SDE / Full Stack) — applying now
+  └── Q2+  💼  Summer 2025 Internship (SDE / Full Stack) — applying now
 ```
 
 <br>
@@ -697,37 +679,37 @@ const cartReducer = (state, { type, payload }) => {
 
 ```mermaid
 gantt
-  title  🚀 Sarthak's Development Timeline · 2023–2026
+  title  🚀 Sarthak's Development Timeline · 2023–2025
   dateFormat  YYYY-MM
   axisFormat  %Y-%m
 
   section 🧱 Foundations
-    JavaScript                  :done,  2023-01, 12M
-    HTML5 + CSS3                :done,  2023-06, 12M
-    Git and GitHub              :done,  2023-09, 6M
+    JavaScript                  :done,  2023-01, 6M
+    HTML5 + CSS3                :done,  2023-03, 6M
+    Git and GitHub              :done,  2023-06, 4M
 
   section 🎯 Vanilla JS Projects
-    FluidArt 1st Capstone       :done,  2024-01, 3M
-    Mathens.io Calculator       :done,  2024-06, 2M
-    Cryptens.io PW Generator    :done,  2024-08, 2M
-    Battlens.io AI Game         :done,  2024-10, 2M
-    Achievens.io To-Do RPG      :done,  2024-12, 2M
+    FluidArt 1st Capstone       :done,  2023-03, 3M
+    Mathens.io Calculator       :done,  2023-07, 2M
+    Cryptens.io PW Generator    :done,  2023-08, 2M
+    Battlens.io AI Game         :done,  2023-10, 2M
+    Achievens.io To-Do RPG      :done,  2023-12, 2M
 
   section ⚡ Full Stack
-    React 18                    :done,  2024-09, 4M
-    Node.js and Express         :done,  2025-01, 3M
-    MongoDB and Mongoose        :done,  2025-03, 2M
-    MythicMart MERN             :active, 2025-02, 6M
+    React 18                    :done,  2024-01, 4M
+    Node.js and Express         :done,  2024-03, 3M
+    MongoDB and Mongoose        :done,  2024-05, 2M
+    MythicMart MERN             :active, 2024-04, 6M
 
   section 🤖 AI and Startups
-    Skens.inc MVP               :active, 2025-06, 8M
-    Leaflix.inc AI Platform     :active, 2025-09, 6M
+    Skens.inc MVP               :active, 2024-06, 8M
+    Leaflix.inc AI Platform     :active, 2024-09, 6M
 
-  section 🎯 2026 Goals
-    DSA LeetCode 200+           :active, 2026-01, 6M
-    Portfolio 2.0               :active, 2026-01, 3M
-    Summer Internship           :        2026-05, 3M
-    System Design               :        2026-03, 9M
+  section 🎯 2025 Goals
+    DSA LeetCode 200+           :active, 2025-01, 6M
+    Portfolio 2.0               :active, 2025-01, 3M
+    Summer Internship           :        2025-05, 3M
+    System Design               :        2025-03, 9M
 ```
 
 <br>
@@ -738,13 +720,13 @@ gantt
 
 ## `> cat current-focus.sh`
 
-### 🎯 Current Focus — Q1 / Q2 2026
+### 🎯 Current Focus — Q1 / Q2 2025
 
 **💼 Actively Seeking**
 
 ```
 Role      →  SDE · Full Stack Engineer · Frontend Engineer
-Timeline  →  Summer 2026 Internship
+Timeline  →  Summer 2025 Internship
 Mode      →  Remote / Hybrid / On-site — fully flexible
 Location  →  India preferred · open to relocation
 ```
@@ -763,10 +745,10 @@ Location  →  India preferred · open to relocation
 
 | Project | Next Milestone | ETA |
 |---------|---------------|-----|
-| MythicMart | Stripe payment gateway | Mar 2026 |
-| Skens.inc | MVP launch | Q2 2026 |
-| Leaflix.inc | AI platform alpha | Q2 2026 |
-| Portfolio 2.0 | Design system complete | Q1 2026 |
+| MythicMart | Stripe payment gateway | Mar 2025 |
+| Skens.inc | MVP launch | Q2 2025 |
+| Leaflix.inc | AI platform alpha | Q2 2025 |
+| Portfolio 2.0 | Design system complete | Q1 2025 |
 
 <br>
 
@@ -840,7 +822,7 @@ Location  →  India preferred · open to relocation
 
 ## `> cat vision.md`
 
-### 🔭 Technical Vision 2026
+### 🔭 Technical Vision 2025
 
 **The shift from *Applications* to *Agents*.**
 
@@ -868,7 +850,7 @@ The future of the web isn't just responsive interfaces; it's proactive agents. M
 ### 🤝 Open for Collaboration
 
 **I'm looking for:**
-- 💼 **Internships** — SDE / Full Stack / Frontend (Summer 2026)
+- 💼 **Internships** — SDE / Full Stack / Frontend (Summer 2025)
 - 🚀 **Technical co-founder** — Early-stage AI or web startup? Let's talk.
 - 🤝 **Open Source** — First-time contributor friendly. Always open to a good PR.
 - 📝 **Technical Writing** — Tutorials, deep-dives, documentation
@@ -1000,7 +982,7 @@ The future of the web isn't just responsive interfaces; it's proactive agents. M
 
 <br>
 
-**© 2026 Sarthak Mathapati**
+**© 2025 Sarthak Mathapati**
 
 Built with ❤️ in India · Newton School of Technology · Rishihood University
 
@@ -1024,7 +1006,7 @@ Theme: Tokyo Night / Dark Mode Managed
 Layout: Responsive Grid + Fluid Media
 Accessibility: WCAG AAA Compliant Components
 Lighthouse Target: 100/100/100/100
-Build Date: 2026-02-12
+Build Date: 2025-02-12
 Version: 5.0.0-PRO
 ============================================================================
 -->
