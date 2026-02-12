@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=130&text=SARTHAK%20MATHAPATI&fontSize=60&fontColor=FFFFFF&animation=twinkling&desc=&descSize=1&fontAlignY=50" width="100%" alt="Sarthak Mathapati" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,50:161B22,100:1A1A2E&height=120&text=SARTHAK%20MATHAPATI&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=50&stroke=0A84FF&strokeWidth=1" width="100%" alt="Sarthak Mathapati" />
 
 <a href="https://github.com/skens-git-code">
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=14&duration=4000&pause=1500&color=636366&center=true&vCenter=true&width=600&height=25&lines=AI+SOFTWARE+ENGINEER+%E2%80%A2+FULL+STACK+ARCHITECT+%E2%80%A2+STARTUP+FOUNDER" alt="Roles" />
